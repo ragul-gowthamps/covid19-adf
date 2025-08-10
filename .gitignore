@@ -1,0 +1,36 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Power BI
+*.pbix
+
+# Azure Data Factory backups
+*.bak
+
+# HDInsight / Spark temp files
+*.crc
+*.class
+
+# GitHub Actions artifacts (if using CI/CD)
+*.coverage
+*.testresults
