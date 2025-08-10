@@ -42,7 +42,7 @@ This diagram illustrates the source-to-sink flow using Azure Data Factory's Copy
     ├── sql_scripts/ 
     ├── LICENSE 
     └── README.md
-    ```
+    
 
 
 ## 👨‍💻 About the Developer
