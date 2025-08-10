@@ -25,10 +25,10 @@ This project showcases a cloud-native data integration pipeline using Azure Data
 
 This diagram illustrates the source-to-sink flow using Azure Data Factory's Copy Activity.
 
-![Copy Activity Diagram](docs/copy-activity-diagram.png)
+![Copy Activity Diagram](docs\copy-activity-diagram.drawio.png)
 
 ## 📁 Repository Structure
-covid19-adf/
+'''covid19-adf/
     ├── cicd/ 
     ├── config/ 
     ├── ecdc_data/
@@ -42,6 +42,7 @@ covid19-adf/
     ├── sql_scripts/ 
     ├── LICENSE 
     └── README.md
+    '''
 
 
 ## 👨‍💻 About the Developer
