@@ -28,20 +28,20 @@ This diagram illustrates the source-to-sink flow using Azure Data Factory's Copy
 ![Copy Activity Diagram](docs/copy-activity-diagram.png)
 
 ## 📁 Repository Structure
-covid19-adf/ 
-            ├── cicd/ 
-            ├── config/ 
-            ├── ecdc_data/ 
-            ├── eurostat_data/ 
-            ├── hdinsight_scripts/ 
-            ├── lookup_data/ 
-            ├── power_bi_reports/ 
-            ├── processed/ 
-            ├── pyspark_notebooks/ 
-            ├── raw/ 
-            ├── sql_scripts/ 
-            ├── LICENSE 
-            └── README.md
+covid19-adf/
+    ├── cicd/ 
+    ├── config/ 
+    ├── ecdc_data/
+    ├── eurostat_data/
+    ├── hdinsight_scripts/ 
+    ├── lookup_data/ 
+    ├── power_bi_reports/ 
+    ├── processed/ 
+    ├── pyspark_notebooks/ 
+    ├── raw/ 
+    ├── sql_scripts/ 
+    ├── LICENSE 
+    └── README.md
 
 
 ## 👨‍💻 About the Developer
